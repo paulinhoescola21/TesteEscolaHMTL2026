@@ -13,7 +13,9 @@ EscolaHTML2026
     <header class="cabeçalho-itens">
         <img class ="cabeçalho_imagem"
         src="logo_page.png" alt="Logo da página">
-        <h1> oi cara de boi</h1>
+        <h1 class= "titulo_site">
+        <div class = "sociais">
+        <img class ="sociasi" src="Whatsapp.png" alt="logo do whats da escola">
 
    
 </body>
