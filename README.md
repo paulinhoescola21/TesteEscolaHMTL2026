@@ -15,8 +15,13 @@ EscolaHTML2026
         src="logo_page.png" alt="Logo da página">
         <h1 class= "titulo_site">Nossa Escola</h1>
         <div class = "sociais">
-        <img class ="sociaia" src="Whatsapp.png" alt="logo do whats da escola">
-        <img class = "sociais"
+        <img class ="sociais" src="Whatsapp.png" alt="logo do whats da escola">
+        <img class = "sociais" src="facebook.png" alt="Facebook da escola">
+        <img class ="sociais" src="instagram.png" alt="logo do insta da escola">
+        </div>
+        </header>
+
+        
 
    
 </body>
