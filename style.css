@@ -37,7 +37,7 @@ justify-content: flex-end;
 width: 25%;
 padding-right: 30px;
 }
-.banner1{
+.paragrafo_1_banner{
 display: flex;
 justify-content: center;
 }
@@ -60,6 +60,8 @@ padding: 4px 8px;
 background-image: background-color(#faae43);
 padding: 24px 0;
 backgound: (#A9A9A9);
+display:flex;
+justify-content:center;
 }
 
 .estudante.div{
