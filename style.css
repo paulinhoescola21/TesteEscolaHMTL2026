@@ -60,8 +60,7 @@ padding: 4px 8px;
 background-image: background-color(#faae43);
 padding: 24px 0;
 backgound: (#A9A9A9);
-display:flex;
-justify-content:center;
+
 }
 
 .estudante.div{
@@ -70,7 +69,7 @@ padding: 24px 0;
 }
 .estudantes_todos{
 display: flex;
-justify-content: space-around;
+justify-content: center;
 }
 .escola{
 background-image: linear-gradient(#40A2E3,#7FC2EF);
