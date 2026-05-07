@@ -61,23 +61,24 @@ header{
 
 /* ALUNOS */
 
+.estudante{
+    padding: 50px 0;
+}
+
 .estudante_titulo{
     text-align: center;
-    padding: 30px;
-    font-size: 28px;
+    font-size: 32px;
+    margin-bottom: 40px;
 }
 
 .estudantes_todos{
-    width: 100%;
     display: grid;
-    grid-template-columns: 220px 220px;
+    grid-template-columns: repeat(2, 250px);
     justify-content: center;
     gap: 40px;
-    margin-top: 40px;
-    padding-bottom: 50px;
 }
 
-.estudante{
+.estudante-div{
     background-color: white;
     padding: 20px;
     border-radius: 12px;
