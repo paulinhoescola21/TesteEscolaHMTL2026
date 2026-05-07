@@ -32,7 +32,6 @@ header{
 
 .titulo_site{
     text-align: center;
-    width: 50%;
     font-size: 30px;
     font-weight: bold;
 }
@@ -69,10 +68,12 @@ header{
 }
 
 .estudantes_todos{
+    width: 100%;
     display: grid;
-    grid-template-columns: repeat(2, 220px);
+    grid-template-columns: 220px 220px;
     justify-content: center;
     gap: 40px;
+    margin-top: 40px;
     padding-bottom: 50px;
 }
 
